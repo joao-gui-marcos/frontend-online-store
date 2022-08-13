@@ -17,8 +17,10 @@
     - Simular a finalização da compra dos itens selecionados.
 
 :bulb: **Veja uma amostra a seguir:**
+  
+  <img src="/wireframes/card_15.1.png" width="700">   <img src="/wireframes/card_12.png" width="700">
+  <img src="/wireframes/card_11.2.png" width="700">   <img src="/wireframes/card_10.png" width="700">
 
-  ![project sample](./sample.gif)
 
 ## Habilidades usadas:
 
